@@ -15,7 +15,7 @@ layout: page
 
 ### Example of a Refrigerator
 
-* ### Traditional Refrigerator
+<ins> Traditional Refrigerator </ins>
 
 1. Keeps item cold Traditional Refrigerator
 
