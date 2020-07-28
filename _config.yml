@@ -75,8 +75,6 @@ favicons:
 navigation_header:
 - title: Home
   url: "/"
-- title: Elements
-  url: "/elements/"
 - title: About
   url: "/about/"
 - title: Blog
