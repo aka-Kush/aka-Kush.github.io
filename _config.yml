@@ -1,0 +1,98 @@
+---
+title: Kush
+timezone: Asia/Kolkata
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: My thoughts and ideas
+    feature_text: 'Welcome to the blog
+
+'
+    feature_image: https://picsum.photos/2560/600?image=866
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    image: "/assets/default-social-image.png"
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- ".jekyll-cache"
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+paginate: 2
+paginate_path: blog/page:num
+jekyll-mentions: https://twitter.com
+twitter:
+  username: aka-Kush
+author: Shivansh Kush
+social:
+  name: Shivansh Kush
+  links:
+  - https://twitter.com/shivansh_kush
+  - https://www.linkedin.com/in/shivansh-kush-b599161a7
+  - https://github.com/aka-Kush
+sass:
+  style: compressed
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+encoding: utf-8
+lang: en-GB
+description: An Internet of Things Portfolio
+baseurl: 
+repo: https://github.com/aka-Kush/aka-Kush.github.io
+email: kushivansh27@gmail.com
+css_inline: true
+favicons:
+  '16': "/assets/logos/logo@16px.png"
+  '32': "/assets/logos/logo@32px.png"
+  '96': "/assets/logos/logo@96px.png"
+  '120': "/assets/logos/logo@120px.png"
+  '144': "/assets/logos/logo@144px.png"
+  '180': "/assets/logos/logo@180px.png"
+  '512': "/assets/logos/logo@512px.png"
+  '1024': "/assets/logos/logo@1024px.png"
+navigation_header:
+- title: Home
+  url: "/"
+- title: Elements
+  url: "/elements/"
+- title: About
+  url: "/about/"
+- title: Blog
+  url: "/blog/"
+- title: Categories
+  url: "/categories/"
+- title: Search
+  url: "/search/"
+navigation_footer:
+- title: Created by Shivansh Kush
+  url: https://github.com/aka-Kush
+social_links:
+  Twitter: https://twitter.com/shivansh_kush
+  LinkedIn: https://www.linkedin.com/in/shivansh-kush-b599161a7
+  GitHub: https://github.com/aka-Kush
+sharing_links:
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
