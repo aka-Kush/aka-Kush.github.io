@@ -17,7 +17,7 @@ layout: page
 
 <ins> Traditional Refrigerator </ins>:
 
-- Keeps item cold Traditional Refrigerator
+- Keeps item cold 
 
 - Doesn't do much else
 
