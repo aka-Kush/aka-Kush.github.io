@@ -15,19 +15,19 @@ layout: page
 
 ### Example of a Refrigerator
 
-<ins> Traditional Refrigerator </ins>
+<ins> Traditional Refrigerator </ins>:
 
-1. Keeps item cold Traditional Refrigerator
+- Keeps item cold Traditional Refrigerator
 
-2. Doesn't do much else
+- Doesn't do much else
 
-* ### IoT Refrigerator (Normal Refrigerator \+ Computational Intelligence \+ Network Connectivity):
+<ins> IoT Refrigerator (Normal Refrigerator + Computational Intelligence + Network Connectivity) </ins> : 
 
-1. Orders food items when stock is low
+- Orders food items when stock is low
 
-2. Searches for lowest food prices
+- Searches for lowest food prices
 
-3. Orders water filters when needed   etc.
+- Orders water filters when needed   etc.
 
 ### Contact Me
 
