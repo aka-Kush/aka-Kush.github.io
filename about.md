@@ -9,7 +9,7 @@ feature_image: https://picsum.photos/2560/600?image=873
 ---
 {% include figure.html image="/images/about_me.jpg" caption="Shivansh Kush" position="right" width="300" height="800" %}
 
-I'm just a kid who loves listening to Music and CODE.
+
 
 
 
