@@ -29,6 +29,8 @@ layout: page
 
 - Orders water filters when needed   etc.
 
+[click here](https://aka-kush.github.io/about/)
+
 ### Contact Me
 
 {% include site-form.html %}
