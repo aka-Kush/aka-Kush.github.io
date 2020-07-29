@@ -1,7 +1,7 @@
 ---
 title: IOT
 feature_text: |
-  ## Internet of Things
+  ### Internet of Things
   An IOT portfolio
 feature_image: https://i.picsum.photos/id/989/1300/400.jpg?hmac=rz4Vks7qM2zzI9uQbCb1cY0S2Q5GFHu0Iz7dntL-lyg
 excerpt: An Internet of Things portfolio for learning stuff quickly and easily!
