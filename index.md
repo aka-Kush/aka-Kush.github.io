@@ -1,5 +1,5 @@
 ---
-title: IOT
+title: 
 feature_text: |
   ### Internet of Things
   An IOT portfolio
