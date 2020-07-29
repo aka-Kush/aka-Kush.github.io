@@ -1,9 +1,9 @@
 ---
 title: About
 permalink: "/about/"
-feature_text: 'shivansh@kush:~$whoami
 
-'
+feature_text: |
+  ### shivansh@kush:~$whoami
 feature_image: https://picsum.photos/2560/600?image=873
 
 ---
