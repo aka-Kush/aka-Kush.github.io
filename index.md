@@ -30,6 +30,4 @@ layout: page
 - Orders water filters when needed   etc.
 
 
-### Contact Me
 
-{% include site-form.html %}
