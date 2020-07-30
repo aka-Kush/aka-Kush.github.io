@@ -9,12 +9,16 @@ feature_image: https://picsum.photos/2560/600?image=873
 ---
 {% include figure.html image="/images/about_me.jpg" caption="" position="right" width="300" height="800" %}
 Hey Fellas!!!
-My name is Shivansh Kush and I am 17, CSE student specializing in Internet of Things. I'm a coding enthusiast. 
+My name is _Shivansh Kush and I am 17, CSE student specializing in Internet of Things. I'm a coding enthusiast. 
 
 This space will cover projects related to IOT.
 Hope you all find my content informative, looking forward to learn new things.
 
 Stay safe! Adios
+
+### Contact Me
+
+{% include site-form.html %}
 
 
 
