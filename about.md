@@ -16,6 +16,8 @@ Hope you all find my content informative, looking forward to learn new things.
 
 Stay safe! Adios
 
+{% include nav-social.html %}
+
 
 
 
