@@ -1,6 +1,6 @@
 ---
 title: 
-permalink: "/contact-me/"
+permalink: "/contact/"
 
 feature_text: |
   ### Contact Me
