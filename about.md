@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: "/about/"
+author_profile: true
 
 feature_text: |
   ### shivansh@kush:~$whoami
@@ -17,6 +18,10 @@ Hope you all find my content informative, looking forward to learn new things.
 Stay safe! Adios
 
 {% include nav-social.html %}
+
+{% include author-profile.html %}
+
+
 
 
 
