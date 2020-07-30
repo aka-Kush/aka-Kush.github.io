@@ -16,10 +16,6 @@ Hope you all find my content informative, looking forward to learn new things.
 
 Stay safe! Adios
 
-### Contact Me
-
-{% include site-form.html %}
-
 
 
 
