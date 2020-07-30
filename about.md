@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-author_profile: true
+
 
 feature_text: |
   ### shivansh@kush:~$whoami
@@ -19,7 +19,7 @@ Stay safe! Adios
 
 {% include nav-social.html %}
 
-{% include author-profile.html %}
+
 
 
 
