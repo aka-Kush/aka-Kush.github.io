@@ -84,6 +84,8 @@ navigation_header:
   url: "/categories/"
 - title: Search
   url: "/search/"
+- title: Contact Me
+  url: "/contact/"
 navigation_footer:
 - title: Created by Shivansh Kush
   url: https://github.com/aka-Kush
