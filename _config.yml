@@ -50,10 +50,7 @@ author: Shivansh Kush
 social:
   name: Shivansh Kush
   links:
-  - https://www.instagram.com/kush_shivansh/
-  - https://twitter.com/shivansh_kush
   - https://github.com/aka-Kush
-  - https://www.facebook.com/shivansh.kush.73
   - https://www.linkedin.com/in/shivansh-kush-b599161a7
  
 sass:
@@ -93,11 +90,9 @@ navigation_footer:
 - title: Shivansh Kush
   url: https://aka-kush.github.io/about/
 social_links:
-  Twitter: https://twitter.com/shivansh_kush
   LinkedIn: https://www.linkedin.com/in/shivansh-kush-b599161a7
   GitHub: https://github.com/aka-Kush
-  Instagram: https://www.instagram.com/kush_shivansh/
-  Facebook: https://www.facebook.com/shivansh.kush.73 
+  Resume: https://kush-resume.netlify.app
 sharing_links:
   Twitter: "#0d94e7"
   facebook: "#3B5998"
